@@ -652,7 +652,7 @@ company.html
         </div>
       
             <footer>
-                Designed and Developed by &copy; 2023
+                Designed and Developed by Shree Lekha.S &copy; 2023
                 </footer>
                
 </body>
@@ -870,7 +870,7 @@ contact.html
 
 ![alt text](<Screenshot 2024-04-24 080634.png>)
 
-![alt text](<Screenshot 2024-04-24 080644.png>)
+![alt text](<Screenshot 2024-04-24 092001.png>)
 
 
 ![alt text](<Screenshot 2024-04-24 080651.png>)
