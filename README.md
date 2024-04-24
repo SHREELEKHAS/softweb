@@ -309,7 +309,7 @@ front.html
         </form>
     </div>
     <footer>
-        Designed and Developed by Shree Lekha.S &copy; 2023
+        Designed and Developed by Shree Lekha.S &copy; 2024
     </footer>
 
 </body>
@@ -490,7 +490,7 @@ members.html
         </div>
       
             <footer>
-                Designed and Developed by Shree Lekha.S &copy; 2023
+                Designed and Developed by Shree Lekha.S &copy; 2024
                 </footer>
                
 </body>
@@ -652,7 +652,7 @@ company.html
         </div>
       
             <footer>
-                Designed and Developed by Shree Lekha.S &copy; 2023
+                Designed and Developed by Shree Lekha.S &copy; 2024
                 </footer>
                
 </body>
@@ -854,7 +854,7 @@ contact.html
         <div class="vl"></div>
     </div>
                 <footer>
-                    Designed and Developed by Shree Lekha.S &copy; 2023
+                    Designed and Developed by Shree Lekha.S &copy; 2024
                     </footer>
                    
     </body>
@@ -866,13 +866,17 @@ contact.html
 ```
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-04-24 080628.png>)
 
-![alt text](<Screenshot 2024-04-24 080634.png>)
+![alt text](<Screenshot 2024-04-24 092912.png>)
 
-![alt text](<Screenshot 2024-04-24 092001.png>)
+![alt text](<Screenshot 2024-04-24 092924.png>)
+
+![alt text](<Screenshot 2024-04-24 092943.png>)
 
 
-![alt text](<Screenshot 2024-04-24 080651.png>)
+
+![alt text](<Screenshot 2024-04-24 092952.png>)
+
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
